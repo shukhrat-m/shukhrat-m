@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shukhrat M
+- 👋 Hi, I’m Shukhrat
 - 👀 I’m interested in C#, .NET, ASP.NET, React, Solidity, Blockchain
 - 🌱 I’m currently learning Solidity, Blockchain
 - 💞️ I’m looking to collaborate on Blockchain projects
